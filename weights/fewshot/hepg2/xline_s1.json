@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve few-shot (xline)",
+ "benchmark": "State few-shot",
+ "line": "hepg2",
+ "variant": "xline",
+ "seed": 1,
+ "epochs": 12,
+ "scale": {
+  "hepg2": 0.6961938142776489
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

@@ -1,0 +1,22 @@
+{
+ "name": "GoBERT only",
+ "split": "cluster_genept",
+ "protocol": "gd",
+ "seed": 0,
+ "rank": 32,
+ "best_epoch": 19,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.8991254552898246,
+  "k562": 0.8914965381710424,
+  "hepg2": 0.9038066864688217,
+  "jurkat": 0.8585759448233834
+ },
+ "representations": [
+  "gobert",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

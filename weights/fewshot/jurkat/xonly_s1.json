@@ -1,0 +1,15 @@
+{
+ "name": "Pertrieve few-shot (xonly)",
+ "benchmark": "State few-shot",
+ "line": "jurkat",
+ "variant": "xonly",
+ "seed": 1,
+ "epochs": 27,
+ "scale": {
+  "jurkat": 0.7731500864028931
+ },
+ "representations": [
+  "xline_profile"
+ ],
+ "uniform_if_missing": "all"
+}

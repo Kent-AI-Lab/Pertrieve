@@ -1,0 +1,16 @@
+protocol,split,model,pearson_delta,disc_cos,mse,n_seeds
+gd,cluster,genepert_ridge_gobert,0.369281269831462,0.6013069689835595,,1.0
+gd,cluster,ae_linear_all4,0.3833635752482877,0.5809198137283342,,1.0
+gd,cluster,ae_linear_gobert,0.3840123587408288,0.566739327123674,,1.0
+gd,cluster,slim_string_default,0.3948042850660583,0.6163061092337728,,1.0
+gd,cluster,slim_string_selected,0.4070255020517869,0.6147832676789907,,1.0
+gd,cluster_genept,ae_linear_gobert,0.3586755031333998,0.606595930102478,,1.0
+gd,cluster_genept,genepert_ridge_gobert,0.3623111903488165,0.6056486771164274,,1.0
+gd,cluster_genept,ae_linear_all4,0.3629086427609245,0.5985476638791815,,1.0
+gd,cluster_genept,slim_string_default,0.3706753048411997,0.6161512350309436,,1.0
+gd,cluster_genept,slim_string_selected,0.3725985023864475,0.6296593854652613,,1.0
+gd,unseen,genepert_ridge_gobert,0.3332119593838408,0.6431640390875066,,1.0
+gd,unseen,slim_string_default,0.3576201254801937,0.6171574026437067,,1.0
+gd,unseen,ae_linear_gobert,0.3606244230329058,0.6246183476577779,,1.0
+gd,unseen,slim_string_selected,0.3638357849147007,0.6369174640450347,,1.0
+gd,unseen,ae_linear_all4,0.3720770951617929,0.6184543517799154,,1.0

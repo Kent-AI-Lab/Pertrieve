@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "CellSimBench",
+ "dataset": "norman19",
+ "variant": "plain",
+ "fold": 0,
+ "seed": 2,
+ "epochs": 0,
+ "scale": {
+  "norman19": 0.7518288493156433
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

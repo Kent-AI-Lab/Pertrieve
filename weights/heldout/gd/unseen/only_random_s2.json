@@ -1,0 +1,22 @@
+{
+ "name": "random vectors",
+ "split": "unseen",
+ "protocol": "gd",
+ "seed": 2,
+ "rank": 32,
+ "best_epoch": 1,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.9948229788119801,
+  "k562": 0.9811607599903748,
+  "hepg2": 0.9918248656737284,
+  "jurkat": 0.9892752166033384
+ },
+ "representations": [
+  "random",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

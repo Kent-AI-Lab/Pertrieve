@@ -1,0 +1,27 @@
+{
+ "name": "Pertrieve-Retrieval trained on three lines (held-out-line transfer, E4)",
+ "benchmark": "Replogle/Nadig held-out genes (separate selection genes)",
+ "split": "cluster_genept",
+ "protocol": "gd",
+ "holdout_line": "hepg2",
+ "seed": 1,
+ "epochs": 22,
+ "training_lines": [
+  "rpe1",
+  "k562",
+  "jurkat"
+ ],
+ "scale": {
+  "rpe1": 0.9020597338676453,
+  "k562": 0.9098953604698181,
+  "hepg2": 0.8987493515014648,
+  "jurkat": 0.8651886582374573
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "first"
+}

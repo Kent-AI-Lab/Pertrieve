@@ -1,0 +1,22 @@
+{
+ "name": "no bilinear term",
+ "split": "unseen",
+ "protocol": "full",
+ "seed": 0,
+ "rank": 0,
+ "best_epoch": 0,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.8572893694677182,
+  "k562": 0.7160723117898882,
+  "hepg2": 0.8297787335052815,
+  "jurkat": 0.7159851833481754
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "first"
+}

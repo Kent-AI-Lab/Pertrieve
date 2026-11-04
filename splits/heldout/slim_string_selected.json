@@ -1,0 +1,26 @@
+{
+ "gd": {
+  "unseen": {
+   "K": 100,
+   "lam": 1.0
+  },
+  "cluster": {
+   "K": 200,
+   "lam": 10.0
+  },
+  "cluster_genept": {
+   "K": 100,
+   "lam": 1.0
+  }
+ },
+ "full": {
+  "unseen": {
+   "K": 50,
+   "lam": 1.0
+  },
+  "cluster": {
+   "K": 100,
+   "lam": 1.0
+  }
+ }
+}

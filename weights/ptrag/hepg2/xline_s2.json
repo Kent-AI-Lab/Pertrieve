@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve few-shot (xline)",
+ "benchmark": "PT-RAG few-shot splits",
+ "line": "hepg2",
+ "variant": "xline",
+ "seed": 2,
+ "epochs": 18,
+ "scale": {
+  "hepg2": 0.788112223148346
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

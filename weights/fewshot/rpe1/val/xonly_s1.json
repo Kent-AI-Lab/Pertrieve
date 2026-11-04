@@ -1,0 +1,16 @@
+{
+ "name": "Pertrieve few-shot (xonly), validation fit",
+ "benchmark": "State few-shot",
+ "line": "rpe1",
+ "variant": "xonly",
+ "seed": 1,
+ "epochs": 30,
+ "note": "fitted without the seeded 10% validation genes (splits/fewshot/<line>.val_s<seed>.txt)",
+ "scale": {
+  "rpe1": 0.9230774641036987
+ },
+ "representations": [
+  "xline_profile"
+ ],
+ "uniform_if_missing": "all"
+}

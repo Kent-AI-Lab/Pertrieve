@@ -1,0 +1,113 @@
+{
+ "unseen": {
+  "0": {
+   "knn_k": 20,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 100,
+   "slim_lambda": 1.0
+  },
+  "1": {
+   "knn_k": 7,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 100,
+   "slim_lambda": 1.0
+  },
+  "2": {
+   "knn_k": 15,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 100,
+   "slim_lambda": 1.0
+  },
+  "3": {
+   "knn_k": 7,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 100,
+   "slim_lambda": 0.01
+  },
+  "4": {
+   "knn_k": 15,
+   "ridge_K": 50,
+   "ridge_lambda": 1.0,
+   "slim_K": 50,
+   "slim_lambda": 0.1
+  }
+ },
+ "cluster": {
+  "0": {
+   "knn_k": 20,
+   "ridge_K": 50,
+   "ridge_lambda": 1.0,
+   "slim_K": 100,
+   "slim_lambda": 10.0
+  },
+  "1": {
+   "knn_k": 10,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 200,
+   "slim_lambda": 10.0
+  },
+  "2": {
+   "knn_k": 15,
+   "ridge_K": 50,
+   "ridge_lambda": 1.0,
+   "slim_K": 50,
+   "slim_lambda": 10.0
+  },
+  "3": {
+   "knn_k": 15,
+   "ridge_K": 50,
+   "ridge_lambda": 1.0,
+   "slim_K": 100,
+   "slim_lambda": 10.0
+  },
+  "4": {
+   "knn_k": 10,
+   "ridge_K": 50,
+   "ridge_lambda": 1.0,
+   "slim_K": 50,
+   "slim_lambda": 10.0
+  }
+ },
+ "cluster_genept": {
+  "0": {
+   "knn_k": 7,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 100,
+   "slim_lambda": 0.1
+  },
+  "1": {
+   "knn_k": 15,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 100,
+   "slim_lambda": 10.0
+  },
+  "2": {
+   "knn_k": 7,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 100,
+   "slim_lambda": 10.0
+  },
+  "3": {
+   "knn_k": 10,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 100,
+   "slim_lambda": 10.0
+  },
+  "4": {
+   "knn_k": 20,
+   "ridge_K": 50,
+   "ridge_lambda": 0.1,
+   "slim_K": 100,
+   "slim_lambda": 10.0
+  }
+ }
+}

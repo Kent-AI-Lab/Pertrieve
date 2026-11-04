@@ -1,0 +1,20 @@
+{
+ "name": "Pertrieve few-shot (xline), validation fit",
+ "benchmark": "CRISPRa TF screen (Kaden25, CellSimBench processing)",
+ "line": "rpe1",
+ "fold": 0,
+ "seed": 2,
+ "epochs": 8,
+ "fit": "library without the seeded 10% validation genes",
+ "scale": {
+  "rpe1": 0.864030659198761
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

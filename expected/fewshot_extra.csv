@@ -1,0 +1,30 @@
+benchmark,dataset,variant,group,metric,value
+fewshot,replogle_nadig,State (measured control),all,pearson_delta,0.3929660530424101
+fewshot,replogle_nadig,ridge_all4,all,pearson_delta,0.4060374274309485
+fewshot,replogle_nadig,State,all,pearson_delta,0.4125588557600372
+fewshot,replogle_nadig,ridge_xline,all,pearson_delta,0.4709578780194461
+fewshot,replogle_nadig,ae_xline,all,pearson_delta,0.4831624564187731
+fewshot,replogle_nadig,ridge_xline+ae_xline,all,pearson_delta,0.487709680890814
+fewshot,replogle_nadig,xline+ridge_xline_perline,all,pearson_delta,0.492481968200756
+fewshot,replogle_nadig,xline+ae_xline_perline,all,pearson_delta,0.4954038763320567
+fewshot,replogle_nadig,xline0+ae_xline,all,pearson_delta,0.4976410225460572
+fewshot,replogle_nadig,xline+ridge_xline,all,pearson_delta,0.500968734152819
+fewshot,replogle_nadig,xline+ae_xline,all,pearson_delta,0.5040045069193142
+fewshot,replogle_nadig,State (measured control),all,disc_cos,0.7258487495159367
+fewshot,replogle_nadig,ridge_all4,all,disc_cos,0.5959429889433955
+fewshot,replogle_nadig,State,all,disc_cos,0.7346848369189084
+fewshot,replogle_nadig,ridge_xline,all,disc_cos,0.768123125927238
+fewshot,replogle_nadig,ae_xline,all,disc_cos,0.7348252661990191
+fewshot,replogle_nadig,xline+ridge_xline_perline,all,disc_cos,0.7382106878453324
+fewshot,replogle_nadig,xline+ae_xline_perline,all,disc_cos,0.7194033840829754
+fewshot,replogle_nadig,xline+ridge_xline,all,disc_cos,0.7349035653070852
+fewshot,replogle_nadig,xline+ae_xline,all,disc_cos,0.717546339261544
+fewshot,replogle_nadig,State (measured control),all,mse,0.0072572722562455
+fewshot,replogle_nadig,ridge_all4,all,mse,0.0075468855074882
+fewshot,replogle_nadig,State,all,mse,0.0066189399017979
+fewshot,replogle_nadig,ridge_xline,all,mse,0.00607381262907
+fewshot,replogle_nadig,ae_xline,all,mse,0.0057996202451681
+fewshot,replogle_nadig,xline+ridge_xline_perline,all,mse,0.0058049893683121
+fewshot,replogle_nadig,xline+ae_xline_perline,all,mse,0.0058557424309504
+fewshot,replogle_nadig,xline+ridge_xline,all,mse,0.0055256981608639
+fewshot,replogle_nadig,xline+ae_xline,all,mse,0.005541189517869

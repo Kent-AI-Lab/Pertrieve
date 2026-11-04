@@ -1,0 +1,16 @@
+{
+ "name": "Pertrieve few-shot (xonly), validation fit",
+ "benchmark": "State few-shot",
+ "line": "jurkat",
+ "variant": "xonly",
+ "seed": 1,
+ "epochs": 27,
+ "note": "fitted without the seeded 10% validation genes (splits/fewshot/<line>.val_s<seed>.txt)",
+ "scale": {
+  "jurkat": 0.8101176619529724
+ },
+ "representations": [
+  "xline_profile"
+ ],
+ "uniform_if_missing": "all"
+}

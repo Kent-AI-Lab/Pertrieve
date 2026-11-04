@@ -1,0 +1,20 @@
+{
+ "name": "Pertrieve few-shot (xline), validation fit",
+ "benchmark": "State few-shot",
+ "line": "hepg2",
+ "variant": "xline",
+ "seed": 2,
+ "epochs": 21,
+ "note": "fitted without the seeded 10% validation genes (splits/fewshot/<line>.val_s<seed>.txt)",
+ "scale": {
+  "hepg2": 0.7143739461898804
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

@@ -1,0 +1,9 @@
+family,n_tests,wins,wins_holm,losses_holm,datasets
+replogle22k562,13,13,13,0,table5_7
+replogle22rpe1,13,12,12,1,table5_7
+nadig25hepg2,13,10,6,3,table5_7
+nadig25jurkat,13,13,8,0,table5_7
+adamson16,13,9,2,0,table5_7
+norman19,13,13,10,0,table5_7
+wessels23,13,13,12,0,table5_7
+all 7 datasets x 13 metrics (Holm over 91),91,83,63,4,table5_7

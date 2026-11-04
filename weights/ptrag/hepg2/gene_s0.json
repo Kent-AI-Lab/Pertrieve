@@ -1,0 +1,18 @@
+{
+ "name": "Pertrieve few-shot (gene)",
+ "benchmark": "PT-RAG few-shot splits",
+ "line": "hepg2",
+ "variant": "gene",
+ "seed": 0,
+ "epochs": 29,
+ "scale": {
+  "hepg2": 0.936290442943573
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

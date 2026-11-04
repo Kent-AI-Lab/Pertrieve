@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "CellSimBench",
+ "dataset": "wessels23",
+ "variant": "split",
+ "fold": 0,
+ "seed": 2,
+ "epochs": 0,
+ "scale": {
+  "wessels23": 0.6906092166900635
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

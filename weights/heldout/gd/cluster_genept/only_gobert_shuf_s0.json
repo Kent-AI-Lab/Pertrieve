@@ -1,0 +1,22 @@
+{
+ "name": "shuffled GoBERT",
+ "split": "cluster_genept",
+ "protocol": "gd",
+ "seed": 0,
+ "rank": 32,
+ "best_epoch": 9,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.9882574081238684,
+  "k562": 0.9321962575341292,
+  "hepg2": 0.9941695928106561,
+  "jurkat": 0.9536097063665484
+ },
+ "representations": [
+  "gobert_shuf",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

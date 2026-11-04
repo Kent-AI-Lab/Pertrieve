@@ -1,0 +1,22 @@
+{
+ "name": "ESM2 only",
+ "split": "cluster",
+ "protocol": "gd",
+ "seed": 1,
+ "rank": 32,
+ "best_epoch": 27,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 1.0645531427573027,
+  "k562": 1.0092235804225755,
+  "hepg2": 0.9958664773385928,
+  "jurkat": 1.0177806608754554
+ },
+ "representations": [
+  "esm2",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

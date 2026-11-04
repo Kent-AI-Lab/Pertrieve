@@ -1,0 +1,7 @@
+SOCS1+ctrl
+SRPRB+ctrl
+ARHGAP22+ctrl
+CAD+ctrl
+IDH3A+ctrl
+HARS+ctrl
+ASCC3+ctrl

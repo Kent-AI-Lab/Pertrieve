@@ -1,0 +1,22 @@
+{
+ "name": "random vectors",
+ "split": "cluster_genept",
+ "protocol": "gd",
+ "seed": 0,
+ "rank": 32,
+ "best_epoch": 1,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.996985197038568,
+  "k562": 0.99081277854728,
+  "hepg2": 0.9947413801112126,
+  "jurkat": 0.9925815461237739
+ },
+ "representations": [
+  "random",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

@@ -1,0 +1,17 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "scgenept_norman",
+ "variant": "plain",
+ "split_seed": 1,
+ "seed": 1,
+ "epochs": 24,
+ "scale": {
+  "scgenept_norman": 1.2035636901855469
+ },
+ "representations": [
+  "GoBERT",
+  "GO_all-ada",
+  "GenePT_v2"
+ ],
+ "uniform_if_missing": "all"
+}

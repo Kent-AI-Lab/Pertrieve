@@ -1,0 +1,17 @@
+TIMM44+ctrl
+SEC61G+ctrl
+YIPF5+ctrl
+TMED2+ctrl
+TTI2+ctrl
+DNAJC19+ctrl
+SPCS3+ctrl
+SEC61B+ctrl
+UFM1+ctrl
+EIF2B4+ctrl
+EIF2B2+ctrl
+SEL1L+ctrl
+HSPA5+ctrl
+DAD1+ctrl
+IER3IP1+ctrl
+DERL2+ctrl
+OST4+ctrl

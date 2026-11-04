@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "CellSimBench",
+ "dataset": "replogle22k562",
+ "variant": "plain",
+ "fold": 3,
+ "seed": 2,
+ "epochs": 27,
+ "scale": {
+  "replogle22k562": 0.9599688649177551
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

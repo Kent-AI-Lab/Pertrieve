@@ -1,0 +1,17 @@
+TMED2+ctrl
+SLC35B1+ctrl
+UFL1+ctrl
+PTDSS1+ctrl
+UFM1+ctrl
+TARS+ctrl
+HSPA5+ctrl
+PPWD1+ctrl
+SRP68+ctrl
+SEC61A1+ctrl
+DDRGK1+ctrl
+HYOU1+ctrl
+SEC61B+ctrl
+AMIGO3+ctrl
+HSPA9+ctrl
+MTHFD1+ctrl
+OST4+ctrl

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pertrieve"
+version = "0.4.0"
+description = "Learned retrieval and composition of measured perturbation responses"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "pandas>=2.0", "scipy>=1.10", "h5py>=3.8", "scikit-learn>=1.3"]
+
+[project.urls]
+Repository = "https://github.com/Kent-AI-Lab/Pertrieve"
+
+[project.optional-dependencies]
+cell-eval = ["cell-eval", "anndata"]
+test = ["pytest"]
+slim = ["slim @ git+https://github.com/RasmussenLab/SLIM@5a7e9ade5d0a6b6331e6dbc81181450605047bcc", "anndata"]
+
+[tool.setuptools]
+packages = ["pertrieve"]

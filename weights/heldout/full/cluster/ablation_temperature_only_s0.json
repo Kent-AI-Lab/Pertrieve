@@ -1,0 +1,22 @@
+{
+ "name": "temperature only",
+ "split": "cluster",
+ "protocol": "full",
+ "seed": 0,
+ "rank": 0,
+ "best_epoch": 1,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.9049133635943323,
+  "k562": 0.7856023257298987,
+  "hepg2": 0.8202655248570948,
+  "jurkat": 0.7239868117099818
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "first"
+}

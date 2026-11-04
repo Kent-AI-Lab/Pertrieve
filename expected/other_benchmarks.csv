@@ -1,0 +1,180 @@
+benchmark,dataset,variant,group,metric,value
+slim_protocol,replogle_k562_essential,GoBERT kNN,all,pearson_delta_mean,0.502974
+slim_protocol,replogle_k562_essential,GoBERT kNN,all,pearson_delta_std,0.0172984
+slim_protocol,replogle_k562_essential,GoBERT kNN,all,disc_cos_mean,0.749695
+slim_protocol,replogle_k562_essential,GoBERT kNN,all,mse_mean,0.00578662
+slim_protocol,replogle_k562_essential,Pertrieve,all,pearson_delta_mean,0.53883
+slim_protocol,replogle_k562_essential,Pertrieve,all,pearson_delta_std,0.0167724
+slim_protocol,replogle_k562_essential,Pertrieve,all,disc_cos_mean,0.749553
+slim_protocol,replogle_k562_essential,Pertrieve,all,mse_mean,0.00530085
+slim_protocol,replogle_k562_essential,train mean,all,pearson_delta_mean,0.38413
+slim_protocol,replogle_k562_essential,train mean,all,pearson_delta_std,0.00778512
+slim_protocol,replogle_k562_essential,train mean,all,disc_cos_mean,0.501832
+slim_protocol,replogle_k562_essential,train mean,all,mse_mean,0.00707754
+slim_protocol,replogle_rpe1_essential,GoBERT kNN,all,pearson_delta_mean,0.626895
+slim_protocol,replogle_rpe1_essential,GoBERT kNN,all,pearson_delta_std,0.0169936
+slim_protocol,replogle_rpe1_essential,GoBERT kNN,all,disc_cos_mean,0.614439
+slim_protocol,replogle_rpe1_essential,GoBERT kNN,all,mse_mean,0.0108605
+slim_protocol,replogle_rpe1_essential,Pertrieve,all,pearson_delta_mean,0.653702
+slim_protocol,replogle_rpe1_essential,Pertrieve,all,pearson_delta_std,0.00768635
+slim_protocol,replogle_rpe1_essential,Pertrieve,all,disc_cos_mean,0.609483
+slim_protocol,replogle_rpe1_essential,Pertrieve,all,mse_mean,0.00958421
+slim_protocol,replogle_rpe1_essential,train mean,all,pearson_delta_mean,0.623094
+slim_protocol,replogle_rpe1_essential,train mean,all,pearson_delta_std,0.0107815
+slim_protocol,replogle_rpe1_essential,train mean,all,disc_cos_mean,0.501295
+slim_protocol,replogle_rpe1_essential,train mean,all,mse_mean,0.0117524
+gears_format,gears_norman,additive,combo_seen0,pearson_delta,0.657582
+gears_format,gears_norman,additive,combo_seen1,pearson_delta,0.735418
+gears_format,gears_norman,additive,combo_seen2,pearson_delta,0.85992
+gears_format,gears_norman,additive,unseen_single,pearson_delta,0.525917
+gears_format,gears_norman,additive,all,pearson_delta,0.681865
+gears_format,gears_norman,plain,combo_seen0,pearson_delta,0.648667
+gears_format,gears_norman,plain,combo_seen1,pearson_delta,0.740635
+gears_format,gears_norman,plain,combo_seen2,pearson_delta,0.834726
+gears_format,gears_norman,plain,unseen_single,pearson_delta,0.531576
+gears_format,gears_norman,plain,all,pearson_delta,0.681543
+gears_format,gears_norman,split_double,combo_seen0,pearson_delta,0.615492
+gears_format,gears_norman,split_double,combo_seen1,pearson_delta,0.6637
+gears_format,gears_norman,split_double,combo_seen2,pearson_delta,0.762032
+gears_format,gears_norman,split_double,unseen_single,pearson_delta,0.462287
+gears_format,gears_norman,split_double,all,pearson_delta,0.610306
+gears_format,gears_norman,split_joint,combo_seen0,pearson_delta,0.646944
+gears_format,gears_norman,split_joint,combo_seen1,pearson_delta,0.747113
+gears_format,gears_norman,split_joint,combo_seen2,pearson_delta,0.871572
+gears_format,gears_norman,split_joint,unseen_single,pearson_delta,0.523359
+gears_format,gears_norman,split_joint,all,pearson_delta,0.687579
+gears_format,scgenept_adamson,plain,unseen_single,pearson_delta,0.743576
+gears_format,scgenept_adamson,plain,all,pearson_delta,0.743576
+gears_format,scgenept_norman,additive,combo_seen0,pearson_delta,0.667421
+gears_format,scgenept_norman,additive,combo_seen1,pearson_delta,0.752459
+gears_format,scgenept_norman,additive,combo_seen2,pearson_delta,0.893498
+gears_format,scgenept_norman,additive,unseen_single,pearson_delta,0.529264
+gears_format,scgenept_norman,additive,all,pearson_delta,0.696555
+gears_format,scgenept_norman,plain,combo_seen0,pearson_delta,0.680155
+gears_format,scgenept_norman,plain,combo_seen1,pearson_delta,0.71812
+gears_format,scgenept_norman,plain,combo_seen2,pearson_delta,0.715106
+gears_format,scgenept_norman,plain,unseen_single,pearson_delta,0.517069
+gears_format,scgenept_norman,plain,all,pearson_delta,0.650578
+gears_format,scgenept_norman,split_double,combo_seen0,pearson_delta,0.560269
+gears_format,scgenept_norman,split_double,combo_seen1,pearson_delta,0.648723
+gears_format,scgenept_norman,split_double,combo_seen2,pearson_delta,0.735386
+gears_format,scgenept_norman,split_double,unseen_single,pearson_delta,0.447393
+gears_format,scgenept_norman,split_double,all,pearson_delta,0.591091
+gears_format,scgenept_norman,split_joint,combo_seen0,pearson_delta,0.685565
+gears_format,scgenept_norman,split_joint,combo_seen1,pearson_delta,0.756417
+gears_format,scgenept_norman,split_joint,combo_seen2,pearson_delta,0.900539
+gears_format,scgenept_norman,split_joint,unseen_single,pearson_delta,0.532117
+gears_format,scgenept_norman,split_joint,all,pearson_delta,0.701739
+scouter_format,adamson,plain,all,NormMSE,0.172248
+scouter_format,adamson,plain,all,Pearson,0.90384
+scouter_format,adamson,plain,single,NormMSE,0.172248
+scouter_format,adamson,plain,single,Pearson,0.90384
+scouter_format,norman,additive,all,NormMSE,0.447564
+scouter_format,norman,additive,all,Pearson,0.769621
+scouter_format,norman,additive,seen0,NormMSE,0.658984
+scouter_format,norman,additive,seen0,Pearson,0.618959
+scouter_format,norman,additive,seen1,NormMSE,0.293339
+scouter_format,norman,additive,seen1,Pearson,0.898992
+scouter_format,norman,additive,seen2,NormMSE,0.135322
+scouter_format,norman,additive,seen2,Pearson,0.968723
+scouter_format,norman,additive,single,NormMSE,0.71712
+scouter_format,norman,additive,single,Pearson,0.584459
+scouter_format,norman,plain,all,NormMSE,0.487659
+scouter_format,norman,plain,all,Pearson,0.80363
+scouter_format,norman,plain,seen0,NormMSE,0.389171
+scouter_format,norman,plain,seen0,Pearson,0.869582
+scouter_format,norman,plain,seen1,NormMSE,0.357777
+scouter_format,norman,plain,seen1,Pearson,0.865013
+scouter_format,norman,plain,seen2,NormMSE,0.393403
+scouter_format,norman,plain,seen2,Pearson,0.87352
+scouter_format,norman,plain,single,NormMSE,0.616396
+scouter_format,norman,plain,single,Pearson,0.724542
+scouter_format,norman,split_double,all,NormMSE,0.276136
+scouter_format,norman,split_double,all,Pearson,0.864989
+scouter_format,norman,split_double,seen0,NormMSE,0.105974
+scouter_format,norman,split_double,seen0,Pearson,0.954497
+scouter_format,norman,split_double,seen1,NormMSE,0.160577
+scouter_format,norman,split_double,seen1,Pearson,0.924917
+scouter_format,norman,split_double,seen2,NormMSE,0.218077
+scouter_format,norman,split_double,seen2,Pearson,0.910962
+scouter_format,norman,split_double,single,NormMSE,0.377944
+scouter_format,norman,split_double,single,Pearson,0.801391
+scouter_format,norman,split_joint,all,NormMSE,0.207925
+scouter_format,norman,split_joint,all,Pearson,0.898666
+scouter_format,norman,split_joint,seen0,NormMSE,0.101279
+scouter_format,norman,split_joint,seen0,Pearson,0.957251
+scouter_format,norman,split_joint,seen1,NormMSE,0.0789086
+scouter_format,norman,split_joint,seen1,Pearson,0.968763
+scouter_format,norman,split_joint,seen2,NormMSE,0.0946183
+scouter_format,norman,split_joint,seen2,Pearson,0.973648
+scouter_format,norman,split_joint,single,NormMSE,0.349616
+scouter_format,norman,split_joint,single,Pearson,0.812573
+scouter_format,wessels,additive,all,NormMSE,0.55166
+scouter_format,wessels,additive,all,Pearson,0.60483
+scouter_format,wessels,additive,seen0,NormMSE,0.687598
+scouter_format,wessels,additive,seen0,Pearson,0.533928
+scouter_format,wessels,additive,seen1,NormMSE,0.562417
+scouter_format,wessels,additive,seen1,Pearson,0.573022
+scouter_format,wessels,additive,seen2,NormMSE,0.461244
+scouter_format,wessels,additive,seen2,Pearson,0.670907
+scouter_format,wessels,additive,single,NormMSE,0.826708
+scouter_format,wessels,additive,single,Pearson,0.447581
+scouter_format,wessels,plain,all,NormMSE,0.577049
+scouter_format,wessels,plain,all,Pearson,0.585851
+scouter_format,wessels,plain,seen0,NormMSE,0.661141
+scouter_format,wessels,plain,seen0,Pearson,0.549262
+scouter_format,wessels,plain,seen1,NormMSE,0.58307
+scouter_format,wessels,plain,seen1,Pearson,0.568948
+scouter_format,wessels,plain,seen2,NormMSE,0.523566
+scouter_format,wessels,plain,seen2,Pearson,0.629152
+scouter_format,wessels,plain,single,NormMSE,0.739453
+scouter_format,wessels,plain,single,Pearson,0.471526
+scouter_format,wessels,split_double,all,NormMSE,0.488786
+scouter_format,wessels,split_double,all,Pearson,0.634185
+scouter_format,wessels,split_double,seen0,NormMSE,0.530401
+scouter_format,wessels,split_double,seen0,Pearson,0.61644
+scouter_format,wessels,split_double,seen1,NormMSE,0.484085
+scouter_format,wessels,split_double,seen1,Pearson,0.62192
+scouter_format,wessels,split_double,seen2,NormMSE,0.41781
+scouter_format,wessels,split_double,seen2,Pearson,0.678905
+scouter_format,wessels,split_double,single,NormMSE,0.751318
+scouter_format,wessels,split_double,single,Pearson,0.499286
+scouter_format,wessels,split_joint,all,NormMSE,0.487739
+scouter_format,wessels,split_joint,all,Pearson,0.634336
+scouter_format,wessels,split_joint,seen0,NormMSE,0.530334
+scouter_format,wessels,split_joint,seen0,Pearson,0.616012
+scouter_format,wessels,split_joint,seen1,NormMSE,0.483945
+scouter_format,wessels,split_joint,seen1,Pearson,0.622059
+scouter_format,wessels,split_joint,seen2,NormMSE,0.414972
+scouter_format,wessels,split_joint,seen2,Pearson,0.679259
+scouter_format,wessels,split_joint,single,NormMSE,0.7547
+scouter_format,wessels,split_joint,single,Pearson,0.498872
+perturbqa,hepg2,de,all,AUC,0.630582
+perturbqa,jurkat,de,all,AUC,0.613811
+perturbqa,k562,de,all,AUC,0.672674
+perturbqa,rpe1,de,all,AUC,0.630731
+perturbqa,hepg2,dir,all,AUC,0.704687
+perturbqa,jurkat,dir,all,AUC,0.742961
+perturbqa,k562,dir,all,AUC,0.768895
+perturbqa,rpe1,dir,all,AUC,0.712667
+slim_protocol,replogle_k562_essential,SLIM-STRING,all,pearson_delta_mean,0.505914
+slim_protocol,replogle_k562_essential,SLIM-STRING,all,pearson_delta_std,0.0168869
+slim_protocol,replogle_k562_essential,SLIM-STRING,all,disc_cos_mean,0.749467
+slim_protocol,replogle_k562_essential,SLIM-STRING,all,mse_mean,0.00579523
+slim_protocol,replogle_rpe1_essential,SLIM-STRING,all,pearson_delta_mean,0.628615
+slim_protocol,replogle_rpe1_essential,SLIM-STRING,all,pearson_delta_std,0.0101125
+slim_protocol,replogle_rpe1_essential,SLIM-STRING,all,disc_cos_mean,0.585244
+slim_protocol,replogle_rpe1_essential,SLIM-STRING,all,mse_mean,0.0102523
+fewshot,replogle_nadig,perturb mean,all,pearson_delta,0.3473734205712155
+fewshot,replogle_nadig,context mean,all,pearson_delta,0.3830418566533314
+fewshot,replogle_nadig,gene,all,pearson_delta,0.4321000476743695
+fewshot,replogle_nadig,xline,all,pearson_delta,0.4799300074572743
+fewshot,replogle_nadig,xonly,all,pearson_delta,0.4975771920928666
+fewshot,replogle_nadig,perturb mean,all,disc_cos,0.8239136582566207
+fewshot,replogle_nadig,gene,all,disc_cos,0.6171415071998123
+fewshot,replogle_nadig,xline,all,disc_cos,0.6939348324514112
+fewshot,replogle_nadig,xonly,all,disc_cos,0.6866406368147728
+fewshot,replogle_nadig,perturb mean,all,mse,0.0104513916568804
+fewshot,replogle_nadig,gene,all,mse,0.0073483665821846
+fewshot,replogle_nadig,xline,all,mse,0.0062764397003703
+fewshot,replogle_nadig,xonly,all,mse,0.00585803712578

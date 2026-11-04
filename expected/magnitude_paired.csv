@@ -1,0 +1,3 @@
+task,model,vs,diff,lo,hi
+fewshot (official test sets),Pertrieve,Linear predictor (ae_xline),0.0102696642763311,0.0023863954952842,0.0173760423985809
+fewshot (official test sets),Pertrieve,Cross-cell-line retrieval (xline),0.0927353329452099,0.0791970393149606,0.106782035129174

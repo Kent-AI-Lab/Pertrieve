@@ -1,0 +1,17 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "scouter_norman",
+ "variant": "split_double",
+ "split": 3,
+ "seed": 0,
+ "epochs": 13,
+ "scale": {
+  "norman": 0.911370575428009
+ },
+ "representations": [
+  "GoBERT",
+  "scELMo",
+  "GenePT_v2"
+ ],
+ "uniform_if_missing": "all"
+}

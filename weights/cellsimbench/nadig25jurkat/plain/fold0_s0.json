@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "CellSimBench",
+ "dataset": "nadig25jurkat",
+ "variant": "plain",
+ "fold": 0,
+ "seed": 0,
+ "epochs": 27,
+ "scale": {
+  "nadig25jurkat": 0.9370731711387634
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

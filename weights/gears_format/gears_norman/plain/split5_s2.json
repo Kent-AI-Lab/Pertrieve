@@ -1,0 +1,17 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "gears_norman",
+ "variant": "plain",
+ "split_seed": 5,
+ "seed": 2,
+ "epochs": 6,
+ "scale": {
+  "gears_norman": 0.9821370840072632
+ },
+ "representations": [
+  "GoBERT",
+  "GO-binary",
+  "GenePT_v2"
+ ],
+ "uniform_if_missing": "all"
+}

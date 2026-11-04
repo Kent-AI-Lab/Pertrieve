@@ -1,0 +1,20 @@
+{
+ "name": "Pertrieve few-shot (xline)",
+ "benchmark": "CRISPRa TF screen (Kaden25, CellSimBench processing)",
+ "line": "rpe1",
+ "fold": 1,
+ "seed": 0,
+ "epochs": 11,
+ "fit": "full library of the fold",
+ "scale": {
+  "rpe1": 0.971357524394989
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

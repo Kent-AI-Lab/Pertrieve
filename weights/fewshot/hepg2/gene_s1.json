@@ -1,0 +1,18 @@
+{
+ "name": "Pertrieve few-shot (gene)",
+ "benchmark": "State few-shot",
+ "line": "hepg2",
+ "variant": "gene",
+ "seed": 1,
+ "epochs": 12,
+ "scale": {
+  "hepg2": 0.7922402024269104
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

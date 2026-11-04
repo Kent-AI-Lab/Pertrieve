@@ -1,0 +1,27 @@
+{
+ "name": "soft GoBERT kNN initialisation with per-line scales (E4 control)",
+ "benchmark": "Replogle/Nadig held-out genes (separate selection genes)",
+ "split": "unseen",
+ "protocol": "gd",
+ "holdout_line": "rpe1",
+ "seed": 0,
+ "epochs": 0,
+ "training_lines": [
+  "k562",
+  "hepg2",
+  "jurkat"
+ ],
+ "scale": {
+  "rpe1": 0.8572893738746643,
+  "k562": 0.7160723209381104,
+  "hepg2": 0.8297787308692932,
+  "jurkat": 0.7159851789474487
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "first"
+}

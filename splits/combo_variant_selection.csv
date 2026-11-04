@@ -1,0 +1,34 @@
+format,benchmark,split,seed,criterion,val_plain,val_additive,val_split_joint,chosen
+gears_format,gears_norman,1,0,mean validation pearson_delta,0.6001436334,0.5925057708,0.5913293551,plain
+gears_format,gears_norman,1,1,mean validation pearson_delta,0.599965565,0.5945031739,0.5925372404,plain
+gears_format,gears_norman,1,2,mean validation pearson_delta,0.5960017207,0.5981325113,0.5913871588,additive
+gears_format,gears_norman,2,0,mean validation pearson_delta,0.5848486334,0.5648798913,0.5832211315,plain
+gears_format,gears_norman,2,1,mean validation pearson_delta,0.5852149256,0.5648519196,0.5826159116,plain
+gears_format,gears_norman,2,2,mean validation pearson_delta,0.5843691505,0.5681949727,0.5825311441,plain
+gears_format,gears_norman,3,0,mean validation pearson_delta,0.6315432617,0.6372277339,0.6656455888,split_joint
+gears_format,gears_norman,3,1,mean validation pearson_delta,0.6329290869,0.6371369893,0.6656413349,split_joint
+gears_format,gears_norman,3,2,mean validation pearson_delta,0.6331365388,0.6371360998,0.665368985,split_joint
+gears_format,gears_norman,4,0,mean validation pearson_delta,0.6914587455,0.6937063932,0.7050037701,split_joint
+gears_format,gears_norman,4,1,mean validation pearson_delta,0.6959797102,0.6927956591,0.7051546994,split_joint
+gears_format,gears_norman,4,2,mean validation pearson_delta,0.6899855676,0.6937596305,0.7077829255,split_joint
+gears_format,gears_norman,5,0,mean validation pearson_delta,0.7340188669,0.7120685716,0.7332293753,plain
+gears_format,gears_norman,5,1,mean validation pearson_delta,0.7338070289,0.7128676978,0.7339025229,split_joint
+gears_format,gears_norman,5,2,mean validation pearson_delta,0.7337655291,0.7122229132,0.7337341663,plain
+gears_format,scgenept_norman,1,0,mean validation pearson_delta,0.6564091598,0.6613533417,0.6661702485,split_joint
+gears_format,scgenept_norman,1,1,mean validation pearson_delta,0.6595355396,0.6613533417,0.6661702485,split_joint
+gears_format,scgenept_norman,1,2,mean validation pearson_delta,0.6571195719,0.6613533417,0.6661737665,split_joint
+scouter_format,norman,1,0,mean validation DE Pearson,0.8549191952,0.783942163,0.9115785081,split_joint
+scouter_format,norman,1,1,mean validation DE Pearson,0.8549191952,0.7853076458,0.9149209437,split_joint
+scouter_format,norman,1,2,mean validation DE Pearson,0.8549191952,0.7867328525,0.9128144924,split_joint
+scouter_format,norman,2,0,mean validation DE Pearson,0.8290455937,0.7893372774,0.9390567161,split_joint
+scouter_format,norman,2,1,mean validation DE Pearson,0.8278734088,0.7894451618,0.9389891627,split_joint
+scouter_format,norman,2,2,mean validation DE Pearson,0.8299852014,0.7893944979,0.9390395852,split_joint
+scouter_format,norman,3,0,mean validation DE Pearson,0.870654881,0.7982879281,0.9712187699,split_joint
+scouter_format,norman,3,1,mean validation DE Pearson,0.8801655769,0.8126687407,0.9712197731,split_joint
+scouter_format,norman,3,2,mean validation DE Pearson,0.8762248158,0.7965298891,0.9712187699,split_joint
+scouter_format,norman,4,0,mean validation DE Pearson,0.7938525677,0.8895827532,0.9348137504,split_joint
+scouter_format,norman,4,1,mean validation DE Pearson,0.8011271954,0.8893601298,0.9348701988,split_joint
+scouter_format,norman,4,2,mean validation DE Pearson,0.7979968786,0.8891512752,0.9347857532,split_joint
+scouter_format,norman,5,0,mean validation DE Pearson,0.9183137417,0.9167924523,0.91768199,plain
+scouter_format,norman,5,1,mean validation DE Pearson,0.9213153124,0.9167924523,0.9175586597,plain
+scouter_format,norman,5,2,mean validation DE Pearson,0.9165894389,0.9167924523,0.9177606232,split_joint

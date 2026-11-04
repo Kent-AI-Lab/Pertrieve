@@ -1,0 +1,7 @@
+MARS+ctrl
+EIF2S1+ctrl
+TELO2+ctrl
+P4HB+ctrl
+SLMO2+ctrl
+DNAJC19+ctrl
+HSD17B12+ctrl

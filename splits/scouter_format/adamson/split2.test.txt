@@ -1,0 +1,17 @@
+SLMO2+ctrl
+CREB1+ctrl
+DNAJC19+ctrl
+MTHFD1+ctrl
+TMED10+ctrl
+TIMM44+ctrl
+AMIGO3+ctrl
+TTI1+ctrl
+SPCS2+ctrl
+ATP5B+ctrl
+CARS+ctrl
+SRP68+ctrl
+DDOST+ctrl
+QARS+ctrl
+TIMM23+ctrl
+P4HB+ctrl
+SYVN1+ctrl

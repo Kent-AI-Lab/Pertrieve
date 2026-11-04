@@ -1,0 +1,16 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "scouter_adamson",
+ "variant": "plain",
+ "split": 2,
+ "seed": 1,
+ "epochs": 9,
+ "scale": {
+  "adamson": 0.9646545052528381
+ },
+ "representations": [
+  "GoBERT",
+  "GenePT_v2"
+ ],
+ "uniform_if_missing": "all"
+}

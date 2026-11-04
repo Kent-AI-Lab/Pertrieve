@@ -1,0 +1,22 @@
+{
+ "name": "scGPT only",
+ "split": "cluster",
+ "protocol": "gd",
+ "seed": 1,
+ "rank": 32,
+ "best_epoch": 6,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.9921782019843045,
+  "k562": 1.0030044316681175,
+  "hepg2": 0.9286803626826556,
+  "jurkat": 0.9679893253236385
+ },
+ "representations": [
+  "scgpt",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

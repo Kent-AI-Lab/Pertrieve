@@ -1,0 +1,7 @@
+task,model,spearman_norm
+fewshot (official test sets),Pertrieve,0.6873426659128663
+fewshot (official test sets),Linear predictor (ae_xline),0.6770730016365352
+fewshot (official test sets),Cross-cell-line retrieval (xline),0.5946073329676563
+held-out (unseen),Pertrieve-Retrieval,0.3664961133185192
+held-out (cluster),Pertrieve-Retrieval,0.3778509151570056
+held-out (cluster_genept),Pertrieve-Retrieval,0.3752756423885762

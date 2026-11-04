@@ -1,0 +1,18 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "SLIM official protocol",
+ "dataset": "replogle_k562_essential",
+ "split_seed": 2,
+ "seed": 2,
+ "epochs": 30,
+ "scale": {
+  "replogle_k562_essential": 0.9653606414794922
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

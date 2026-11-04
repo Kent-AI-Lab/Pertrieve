@@ -1,0 +1,15 @@
+{
+ "name": "Pertrieve few-shot (xonly)",
+ "benchmark": "State few-shot",
+ "line": "k562",
+ "variant": "xonly",
+ "seed": 0,
+ "epochs": 5,
+ "scale": {
+  "k562": 0.8173508048057556
+ },
+ "representations": [
+  "xline_profile"
+ ],
+ "uniform_if_missing": "all"
+}

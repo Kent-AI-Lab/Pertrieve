@@ -1,0 +1,20 @@
+{
+ "name": "Pertrieve few-shot (xline), validation fit",
+ "benchmark": "State few-shot",
+ "line": "jurkat",
+ "variant": "xline",
+ "seed": 1,
+ "epochs": 15,
+ "note": "fitted without the seeded 10% validation genes (splits/fewshot/<line>.val_s<seed>.txt)",
+ "scale": {
+  "jurkat": 0.6717726588249207
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve few-shot (xline)",
+ "benchmark": "PT-RAG few-shot splits",
+ "line": "rpe1",
+ "variant": "xline",
+ "seed": 1,
+ "epochs": 14,
+ "scale": {
+  "rpe1": 0.8693475723266602
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

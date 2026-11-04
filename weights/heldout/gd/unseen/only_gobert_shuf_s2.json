@@ -1,0 +1,22 @@
+{
+ "name": "shuffled GoBERT",
+ "split": "unseen",
+ "protocol": "gd",
+ "seed": 2,
+ "rank": 32,
+ "best_epoch": 16,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.9256798624028572,
+  "k562": 0.8312614550060341,
+  "hepg2": 0.9408604507499392,
+  "jurkat": 0.8797907848860794
+ },
+ "representations": [
+  "gobert_shuf",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

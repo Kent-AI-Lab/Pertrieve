@@ -1,0 +1,22 @@
+{
+ "name": "GoBERT only",
+ "split": "unseen",
+ "protocol": "gd",
+ "seed": 0,
+ "rank": 32,
+ "best_epoch": 17,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.9195724114834088,
+  "k562": 0.9032084913336779,
+  "hepg2": 0.9095433381771858,
+  "jurkat": 0.8708386975717679
+ },
+ "representations": [
+  "gobert",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

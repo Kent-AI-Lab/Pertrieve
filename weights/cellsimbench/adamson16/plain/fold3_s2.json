@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "CellSimBench",
+ "dataset": "adamson16",
+ "variant": "plain",
+ "fold": 3,
+ "seed": 2,
+ "epochs": 10,
+ "scale": {
+  "adamson16": 1.0273938179016113
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

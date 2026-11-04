@@ -1,0 +1,20 @@
+{
+ "name": "Pertrieve few-shot (xline), validation fit",
+ "benchmark": "CRISPRa TF screen (Kaden25, CellSimBench processing)",
+ "line": "fibroblast",
+ "fold": 3,
+ "seed": 0,
+ "epochs": 12,
+ "fit": "library without the seeded 10% validation genes",
+ "scale": {
+  "fibroblast": 1.0055410861968994
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

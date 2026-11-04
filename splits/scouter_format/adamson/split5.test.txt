@@ -1,0 +1,17 @@
+AARS+ctrl
+HARS+ctrl
+SYVN1+ctrl
+CHERP+ctrl
+MRGBP+ctrl
+SLC39A7+ctrl
+SAMM50+ctrl
+STT3A+ctrl
+TMEM167A+ctrl
+ASCC3+ctrl
+SEC63+ctrl
+DDRGK1+ctrl
+IARS2+ctrl
+DAD1+ctrl
+KCTD16+ctrl
+CARS+ctrl
+HSPA5+ctrl

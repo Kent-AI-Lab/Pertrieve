@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve few-shot (xline)",
+ "benchmark": "State few-shot",
+ "line": "jurkat",
+ "variant": "xline",
+ "seed": 1,
+ "epochs": 15,
+ "scale": {
+  "jurkat": 0.6408956050872803
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

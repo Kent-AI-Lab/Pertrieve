@@ -1,0 +1,7 @@
+EIF2B3+ctrl
+P4HB+ctrl
+EIF2B2+ctrl
+SEL1L+ctrl
+GMPPB+ctrl
+EIF2B4+ctrl
+MRGBP+ctrl

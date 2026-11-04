@@ -1,0 +1,15 @@
+{
+ "name": "Pertrieve few-shot (xonly)",
+ "benchmark": "State few-shot",
+ "line": "hepg2",
+ "variant": "xonly",
+ "seed": 0,
+ "epochs": 28,
+ "scale": {
+  "hepg2": 0.8562806844711304
+ },
+ "representations": [
+  "xline_profile"
+ ],
+ "uniform_if_missing": "all"
+}

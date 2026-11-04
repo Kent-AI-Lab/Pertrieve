@@ -1,0 +1,23 @@
+{
+ "name": "Pertrieve",
+ "split": "cluster",
+ "outer_split": 3,
+ "protocol": "gd",
+ "seed": 0,
+ "rank": 32,
+ "best_epoch": 14,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.9519103160720286,
+  "k562": 1.0094223022297666,
+  "hepg2": 0.9713641405273852,
+  "jurkat": 0.9391776891286022
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "first"
+}

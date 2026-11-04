@@ -1,0 +1,7 @@
+SEC61G+ctrl
+TTI2+ctrl
+MTHFD1+ctrl
+FARSB+ctrl
+XRN1+ctrl
+KCTD16+ctrl
+GBF1+ctrl

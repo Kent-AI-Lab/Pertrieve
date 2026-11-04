@@ -1,0 +1,12 @@
+{
+ "gd": {
+  "unseen": 20,
+  "cluster": 20,
+  "cluster_genept": 7
+ },
+ "full": {
+  "unseen": 10,
+  "cluster": 20,
+  "cluster_genept": 7
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "scouter_wessels",
+ "variant": "additive",
+ "split": 5,
+ "seed": 1,
+ "epochs": 28,
+ "scale": {
+  "wessels": 0.8112191557884216
+ },
+ "representations": [
+  "GoBERT",
+  "scELMo",
+  "GenePT_v2"
+ ],
+ "uniform_if_missing": "all"
+}

@@ -1,0 +1,22 @@
+{
+ "name": "GenePT only",
+ "split": "cluster_genept",
+ "protocol": "gd",
+ "seed": 1,
+ "rank": 32,
+ "best_epoch": 24,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.8867586882395865,
+  "k562": 0.9481651185260092,
+  "hepg2": 0.898735764758075,
+  "jurkat": 0.8770633890757025
+ },
+ "representations": [
+  "genept",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

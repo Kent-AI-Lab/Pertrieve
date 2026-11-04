@@ -1,0 +1,22 @@
+{
+ "name": "Pertrieve",
+ "split": "unseen",
+ "protocol": "full",
+ "seed": 0,
+ "rank": 32,
+ "best_epoch": 15,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.920549336252978,
+  "k562": 0.9084588305897957,
+  "hepg2": 0.9103958032522593,
+  "jurkat": 0.8814113750346894
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "first"
+}

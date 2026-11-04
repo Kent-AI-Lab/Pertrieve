@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve few-shot (gene), validation fit",
+ "benchmark": "State few-shot",
+ "line": "k562",
+ "variant": "gene",
+ "seed": 1,
+ "epochs": 2,
+ "note": "fitted without the seeded 10% validation genes (splits/fewshot/<line>.val_s<seed>.txt)",
+ "scale": {
+  "k562": 0.7156796455383301
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

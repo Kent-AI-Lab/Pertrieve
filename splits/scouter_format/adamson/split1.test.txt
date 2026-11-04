@@ -1,0 +1,17 @@
+TELO2+ctrl
+MANF+ctrl
+ATP5B+ctrl
+MRPL39+ctrl
+DERL2+ctrl
+CARS+ctrl
+SCYL1+ctrl
+COPB1+ctrl
+SPCS2+ctrl
+SRP72+ctrl
+CCND3+ctrl
+TTI1+ctrl
+TARS+ctrl
+TMED10+ctrl
+HYOU1+ctrl
+HARS+ctrl
+BHLHE40+ctrl

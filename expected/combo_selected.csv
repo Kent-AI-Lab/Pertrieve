@@ -1,0 +1,5 @@
+benchmark,metric,value
+gears_format/gears_norman,pearson_delta,0.684838
+gears_format/scgenept_norman,pearson_delta,0.701739
+scouter_format/norman,NormMSE,0.238985
+scouter_format/norman,Pearson,0.890043

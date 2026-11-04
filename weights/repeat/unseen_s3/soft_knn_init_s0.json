@@ -1,0 +1,23 @@
+{
+ "name": "soft GoBERT kNN (untrained; scale fitted)",
+ "split": "unseen",
+ "outer_split": 3,
+ "protocol": "gd",
+ "seed": 0,
+ "rank": 32,
+ "best_epoch": 0,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 0.8748658839432526,
+  "k562": 0.7183771078369136,
+  "hepg2": 0.8311468358232467,
+  "jurkat": 0.7364658750539929
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "first"
+}

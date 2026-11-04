@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve",
+ "benchmark": "CellSimBench",
+ "dataset": "nadig25hepg2",
+ "variant": "plain",
+ "fold": 1,
+ "seed": 0,
+ "epochs": 30,
+ "scale": {
+  "nadig25hepg2": 0.8766134977340698
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

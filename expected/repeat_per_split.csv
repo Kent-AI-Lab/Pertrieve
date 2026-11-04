@@ -1,0 +1,76 @@
+task,outer_split,model,n_seeds,setting,pearson_delta
+unseen,0,Pertrieve-Retrieval,3,,0.4041090032748887
+unseen,0,Untrained initialization,1,,0.3717036684369022
+unseen,0,kNN (val.-selected k),1,20,0.3798618246208955
+unseen,0,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3720770951786127
+unseen,0,SLIM-STRING (val.-selected),1,K=100 lambda=1,0.3638357849419875
+unseen,1,Pertrieve-Retrieval,3,,0.4204949703105639
+unseen,1,Untrained initialization,1,,0.3989268454213471
+unseen,1,kNN (val.-selected k),1,7,0.3827840883172819
+unseen,1,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3904599752135498
+unseen,1,SLIM-STRING (val.-selected),1,K=100 lambda=1,0.3803338842834949
+unseen,2,Pertrieve-Retrieval,3,,0.4290666696305077
+unseen,2,Untrained initialization,1,,0.4001980981531116
+unseen,2,kNN (val.-selected k),1,15,0.3971400675870196
+unseen,2,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3912145580502686
+unseen,2,SLIM-STRING (val.-selected),1,K=100 lambda=1,0.3845607710302285
+unseen,3,Pertrieve-Retrieval,3,,0.4244320919796651
+unseen,3,Untrained initialization,1,,0.3959167169553341
+unseen,3,kNN (val.-selected k),1,7,0.3761779113057124
+unseen,3,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3836108229873889
+unseen,3,SLIM-STRING (val.-selected),1,K=100 lambda=0.01,0.3724769353758092
+unseen,4,Pertrieve-Retrieval,3,,0.4260482890123225
+unseen,4,Untrained initialization,1,,0.4004485682114271
+unseen,4,kNN (val.-selected k),1,15,0.4043887695587349
+unseen,4,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=1,0.4003998106852371
+unseen,4,SLIM-STRING (val.-selected),1,K=50 lambda=0.1,0.383763391650705
+cluster,0,Pertrieve-Retrieval,3,,0.4039603962712714
+cluster,0,Untrained initialization,1,,0.3623239387831697
+cluster,0,kNN (val.-selected k),1,20,0.3648287441048801
+cluster,0,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=1,0.3833635752723749
+cluster,0,SLIM-STRING (val.-selected),1,K=100 lambda=10,0.407596807053943
+cluster,1,Pertrieve-Retrieval,3,,0.3679443286926632
+cluster,1,Untrained initialization,1,,0.3395869308920198
+cluster,1,kNN (val.-selected k),1,10,0.3109451079443644
+cluster,1,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3269506054310769
+cluster,1,SLIM-STRING (val.-selected),1,K=200 lambda=10,0.3619349105784574
+cluster,2,Pertrieve-Retrieval,3,,0.3718295550141048
+cluster,2,Untrained initialization,1,,0.3401708006265698
+cluster,2,kNN (val.-selected k),1,15,0.3378417339289587
+cluster,2,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=1,0.3515641102720552
+cluster,2,SLIM-STRING (val.-selected),1,K=50 lambda=10,0.3686881876913692
+cluster,3,Pertrieve-Retrieval,3,,0.3228458160150954
+cluster,3,Untrained initialization,1,,0.3041400850742668
+cluster,3,kNN (val.-selected k),1,15,0.3018346658632909
+cluster,3,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=1,0.3117628512775659
+cluster,3,SLIM-STRING (val.-selected),1,K=100 lambda=10,0.3091467133155296
+cluster,4,Pertrieve-Retrieval,3,,0.3668380812828487
+cluster,4,Untrained initialization,1,,0.3444384689256383
+cluster,4,kNN (val.-selected k),1,10,0.3280295029972573
+cluster,4,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=1,0.3590839501790924
+cluster,4,SLIM-STRING (val.-selected),1,K=50 lambda=10,0.3586986397632756
+cluster_genept,0,Pertrieve-Retrieval,3,,0.3730004945401797
+cluster_genept,0,Untrained initialization,1,,0.3561862850398501
+cluster_genept,0,kNN (val.-selected k),1,7,0.3365338298034265
+cluster_genept,0,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3629086428269663
+cluster_genept,0,SLIM-STRING (val.-selected),1,K=100 lambda=0.1,0.3700494638050183
+cluster_genept,1,Pertrieve-Retrieval,3,,0.3395016769387155
+cluster_genept,1,Untrained initialization,1,,0.3135080840761505
+cluster_genept,1,kNN (val.-selected k),1,15,0.314231717047093
+cluster_genept,1,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3135446059453941
+cluster_genept,1,SLIM-STRING (val.-selected),1,K=100 lambda=10,0.3325224064273562
+cluster_genept,2,Pertrieve-Retrieval,3,,0.3569236544170537
+cluster_genept,2,Untrained initialization,1,,0.3336129125692718
+cluster_genept,2,kNN (val.-selected k),1,7,0.3140330632581005
+cluster_genept,2,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3280347472217635
+cluster_genept,2,SLIM-STRING (val.-selected),1,K=100 lambda=10,0.3526630444765316
+cluster_genept,3,Pertrieve-Retrieval,3,,0.3607291575632583
+cluster_genept,3,Untrained initialization,1,,0.3336139992088228
+cluster_genept,3,kNN (val.-selected k),1,10,0.3264057591481938
+cluster_genept,3,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3289756017034729
+cluster_genept,3,SLIM-STRING (val.-selected),1,K=100 lambda=10,0.3421105854747794
+cluster_genept,4,Pertrieve-Retrieval,3,,0.3499910652376352
+cluster_genept,4,Untrained initialization,1,,0.3385893510161831
+cluster_genept,4,kNN (val.-selected k),1,20,0.3440916781627801
+cluster_genept,4,Ahlmann-Eltze ridge (four repr.),1,K=50 lambda=0.1,0.3204189044210552
+cluster_genept,4,SLIM-STRING (val.-selected),1,K=100 lambda=10,0.3444754087849211

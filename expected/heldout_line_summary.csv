@@ -1,0 +1,10 @@
+model,pearson_delta,split
+init,0.3990416098186687,cluster
+transfer,0.4258865791609805,cluster
+full,0.4348268115208346,cluster
+init,0.3939415589727568,cluster_genept
+transfer,0.4101627384041064,cluster_genept
+full,0.4091869639054048,cluster_genept
+init,0.4226573316911933,unseen
+transfer,0.4485904833127233,unseen
+full,0.4528230452394673,unseen

@@ -1,0 +1,22 @@
+{
+ "name": "ESM2 only",
+ "split": "unseen",
+ "protocol": "gd",
+ "seed": 1,
+ "rank": 32,
+ "best_epoch": 20,
+ "selection_line": "rpe1",
+ "scale": {
+  "rpe1": 1.1101902697312869,
+  "k562": 0.924790981709797,
+  "hepg2": 1.046176670045966,
+  "jurkat": 0.994190573758015
+ },
+ "representations": [
+  "esm2",
+  "none",
+  "none",
+  "none"
+ ],
+ "uniform_if_missing": "first"
+}

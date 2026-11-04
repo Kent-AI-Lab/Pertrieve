@@ -1,0 +1,15 @@
+{
+ "name": "Pertrieve (PerturbQA label retrieval)",
+ "benchmark": "PerturbQA",
+ "line": "jurkat",
+ "task": "dir",
+ "seed": 2,
+ "epochs": 13,
+ "output": "label",
+ "scale": {},
+ "representations": [
+  "GoBERT",
+  "GenePT_v2"
+ ],
+ "uniform_if_missing": "all"
+}

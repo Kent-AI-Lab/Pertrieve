@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve few-shot (xline)",
+ "benchmark": "PT-RAG few-shot splits",
+ "line": "jurkat",
+ "variant": "xline",
+ "seed": 0,
+ "epochs": 29,
+ "scale": {
+  "jurkat": 0.8394044041633606
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

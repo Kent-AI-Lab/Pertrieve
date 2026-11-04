@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve few-shot (xline)",
+ "benchmark": "State few-shot",
+ "line": "rpe1",
+ "variant": "xline",
+ "seed": 1,
+ "epochs": 5,
+ "scale": {
+  "rpe1": 0.7430900931358337
+ },
+ "representations": [
+  "xline_profile",
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}

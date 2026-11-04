@@ -1,0 +1,15 @@
+{
+ "name": "Pertrieve few-shot (xonly)",
+ "benchmark": "State few-shot",
+ "line": "rpe1",
+ "variant": "xonly",
+ "seed": 1,
+ "epochs": 30,
+ "scale": {
+  "rpe1": 0.9152588248252869
+ },
+ "representations": [
+  "xline_profile"
+ ],
+ "uniform_if_missing": "all"
+}

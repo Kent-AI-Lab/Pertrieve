@@ -1,0 +1,19 @@
+{
+ "name": "Pertrieve few-shot (gene), validation fit",
+ "benchmark": "State few-shot",
+ "line": "rpe1",
+ "variant": "gene",
+ "seed": 1,
+ "epochs": 30,
+ "note": "fitted without the seeded 10% validation genes (splits/fewshot/<line>.val_s<seed>.txt)",
+ "scale": {
+  "rpe1": 0.8889448642730713
+ },
+ "representations": [
+  "gobert",
+  "genept",
+  "esm2",
+  "scgpt"
+ ],
+ "uniform_if_missing": "all"
+}
